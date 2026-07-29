@@ -1,0 +1,12 @@
+import HautevilleHouse.ClassicalGroupsCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.ClassicalGroupsCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.ClassicalGroupsCanonicalLaneLean.GateLemmas
+import HautevilleHouse.ClassicalGroupsCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace ClassicalGroupsCanonicalLaneLean
+
+-- This module aggregates the Classical Groups canonical lane package.
+
+end ClassicalGroupsCanonicalLaneLean
+end HautevilleHouse

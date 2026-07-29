@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ClassicalGroupsCanonicalLaneLean
+
+end ClassicalGroupsCanonicalLaneLean
+end HautevilleHouse
